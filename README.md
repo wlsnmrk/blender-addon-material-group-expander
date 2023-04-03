@@ -7,3 +7,6 @@ This add-on was hacked together over a weekend with no prior experience writing 
 
 # Installing
 Use the "Install" button from the Add-Ons panel in the Blender Preferences dialog, and point it to the expand_groups.py file.
+
+# Using
+In the Node Editor, open the Node menu and select the "Expand All Groups" item.
