@@ -5,7 +5,7 @@ bl_info = {
     "version": (0, 0, 1),
     "location": "Node Editor > Node > Expand All Groups",
     "warning": "Alpha release. Will not preserve node layout. Limited input types.",
-    "tracker_url": "",
+    "tracker_url": "https://github.com/wlsnmrk/blender-addon-material-group-expander/issues",
     "blender": (3, 5, 0),
     "category": "Material",
 }
